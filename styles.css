@@ -25,7 +25,7 @@
 	width:100px;
 }
 
-.container2{
+.holder{
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
